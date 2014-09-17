@@ -2,3 +2,5 @@ Este es un primer ejemplo de un texto a cambiar.
 Este es el primer cambio.
 Estoy agregando una tercera línea.
 sfñladjfoisduaf 
+
+Esta es una línea creada por el usuario original.
